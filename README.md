@@ -1,2 +1,2 @@
 # This is my first GitHub repository
-# This is a change from the Eclipse IDE
+# This is a change made from the Eclipse IDE
